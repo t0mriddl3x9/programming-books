@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8a920a1-8b6c-4646-8b05-6da45035589c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Language/C++/C++Primer第四版中文版(电子版).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/C++/C++_Primer(第四版)习题解答(完整版).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/C++/Effective C++（第三版）.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Groovy/GROOVY入门经典.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Groovy/Groovy in Action 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Groovy/Programming Groovy 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Java/Head First Java 中文.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Java/Java 8 Pocket Guide.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Java/Java NIO.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Java/Java SE 8 for the Really Impatient.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Java/Java 极限编程.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Java/Java数据结构和算法.（第二版）.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Java/Java核心技术II（第8版）.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Java/Java核心技术I（第8版）.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Java/Java消息服务（第二版）.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Java/Java程序员，上班那点事儿.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Java/深入java虚拟机第二版..pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Python/Django Web开发指南.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Python/Python基础教程（第3版）.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Python/Python核心编程.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Ruby/Head-First-Ruby.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Ruby/metaprogramming Ruby2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Ruby/ruby基础教程（中文第四版）.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Scala/快学Scala 课后习题答案集合/01 快学scala第一章习题答案.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Scala/快学Scala 课后习题答案集合/02 快学scala第二章习题答案.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Scala/快学Scala 课后习题答案集合/03 快学scala第三章习题答案.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Scala/快学Scala 课后习题答案集合/04 快学scala第四章习题答案.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Scala/快学Scala 课后习题答案集合/05 快学scala第五章习题答案.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Scala/快学Scala 课后习题答案集合/06 快学scala第六章习题答案.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Scala/快学Scala 课后习题答案集合/07 快学scala第七章习题答案.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Scala/快学Scala 课后习题答案集合/08 快学scala第八章习题答案.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Scala/快学Scala 课后习题答案集合/09 快学scala第九章习题答案.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Scala/快学Scala 课后习题答案集合/10 快学scala第十章习题答案.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Scala/快学Scala 课后习题答案集合/11 快学scala第十一章习题答案.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Scala/快学Scala 课后习题答案集合/12 快学scala第十二章习题答案.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Scala/快学Scala 课后习题答案集合/13 快学scala第十三章习题答案.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Scala/快学Scala 课后习题答案集合/14 快学scala第十四章习题答案.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Scala/快学Scala 课后习题答案集合/15 快学scala第十五章习题答案.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Scala/快学Scala 课后习题答案集合/16 快学scala第十六章习题答案.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Scala/快学Scala 课后习题答案集合/17 快学scala第十七章习题答案.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/Scala/快学Scala 课后习题答案集合/18 快学scala第十八章习题答案.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language/七周七语言-理解多种编程范型.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD/Java Test with spock.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD/Pragmatic.Unit.Testing.in.Java.8.with.JUnit.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD/测试驱动开发.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD/测试驱动开发的艺术.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD/测试驱动的面向对象软件开发.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD/软件测试的艺术（原书第2版）.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TDD/驯服烂代码 在编程操练中悟道.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThoughtWorks_BA读书雷达_2018.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ThoughtWorks_DEV读书雷达_2016.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XP/解析极限编程：拥抱变化（原书第2版）.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Agile/Head First 设计模式/Head First 设计模式.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Agile/Head First 设计模式/Head First 设计模式（中文版） 目录.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Agile/Pragmatic.Unit.Testing.in.Java.8.with.JUnit/Pragmatic.Unit.Testing.in.Java.8.with.JUnit.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Agile/代码整洁之道/代码整洁之道.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Agile/写给大家看的面向对象编程书（第三版）/写给大家看的面向对象编程书（第三版）.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Agile/大话设计模式/大话设计模式.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Agile/程序员修炼三部曲 第1部 版本控制之道 使用Git/程序员修炼三部曲 第1部 版本控制之道 使用Git.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Agile/程序员修炼三部曲·单元测试之道Java版：使用Junit/程序员修炼三部曲·单元测试之道Java版：使用Junit.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Agile/程序员的职业素养/程序员的职业素养.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Agile/编写可读代码的艺术/编写可读代码的艺术.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Agile/重构-改善既有代码的设计 中文版/重构-改善既有代码的设计 中文版.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Agile/重构与模式/重构与模式.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Language/Java/Effective Java 中文版（第二版）/《Effective Java中文版 第2版》.(Joshua Bloch).[PDF]&amp;ckook.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Language/Java/《Effective Java中文版 第2版》.(Joshua Bloch).[PDF]&amp;ckook.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Language/Java/Java8-lambda/Java 8函数式编程.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Language/Java/Java 8函数式编程.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Language/Python/Django Web开发指南/Django Web开发指南.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/TDD/程序员修炼三部曲·单元测试之道Java版：使用Junit.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Language/Python/Effective Python/Effective Python.azw3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Language/Python/Effective Python/Effective Python.epub" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Language/Python/Effective Python/Effective Python.mobi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Language/Python/Effective Python/Effective Python.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Language/Python/Effective Python.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Language/Python/Head_First_Python（中文版）/Head_First_Python（中文版）.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Language/Python/Head_First_Python（中文版）.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Language/Python/Python Cookbook, 3rd Edition/Python Cookbook, 3rd Edition.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Language/Python/Python Cookbook, 3rd Edition.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Language/Python/Python Cookbook, 3rd Edition/python cookbook(第3版)高清中文完整版.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Language/Python/python cookbook(第3版)高清中文完整版.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Language/Python/Python基础教程（第2版）/Python基础教程（第2版）.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Language/Scala/快学Scala（中文完整版）.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_TW_Reading_radar.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Z_TW_Reading_radar.pdf" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../IdeaProjects/nho/user-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../career/ThoughtWorks/NHO/CoursePack/Repositories/refactor-order-receipt-baseline" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../career/ThoughtWorks/NHO/Training/Exercise/lucky-draw-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../career/ThoughtWorks/NHO/Training/Exercise/tw-coach-coding-library" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../career/ThoughtWorks/Training/Graduate_201709OTR/Repositories/tw-coach-coding-library" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../career/ThoughtWorks/Training/MicroService/Repositories/petstore-order-anemic" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../career/ThoughtWorks/Training/NHO_2018/CoursePack/Repositories/ols-core-server" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../career/ThoughtWorks/Training/NHO_2018/CoursePack/Repositories/personality-analyst-service" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../career/ThoughtWorks/XP-Training/OOBootcamp/Exercise/ood-parking-lot" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../career/ThoughtWorks/XP-Training/OOBootcamp/Exercise/parking-lot" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../career/ThoughtWorks/XP-Training/OOBootcamp/Exercise/refactor-order-receipt" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../career/ThoughtWorks/XP-Training/OOBootcamp/Exercise/rtp-gilded-rose" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../career/ThoughtWorks/XP-Training/OOBootcamp/Exercise/rtp-smart-home" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../career/ThoughtWorks/XP-Training/OOBootcamp/Exercise/sd-gold-measurer" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../career/ThoughtWorks/XP-Training/OOBootcamp/Exercise/tdd-fiber-number" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../career/ThoughtWorks/XP-Training/OOBootcamp/Exercise/tdd-fibonacci" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="eBooks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eBooks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eBooks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eBooks" type="462c0819:PsiDirectoryNode" />
+              <item name="CI_CD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eBooks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eBooks" type="462c0819:PsiDirectoryNode" />
+              <item name="CI_CD" type="462c0819:PsiDirectoryNode" />
+              <item name="Git" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eBooks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eBooks" type="462c0819:PsiDirectoryNode" />
+              <item name="CI_CD" type="462c0819:PsiDirectoryNode" />
+              <item name="程序员修炼三部曲·版本控制之道：使用Git" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eBooks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eBooks" type="462c0819:PsiDirectoryNode" />
+              <item name="VCS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eBooks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eBooks" type="462c0819:PsiDirectoryNode" />
+              <item name="XP" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/VCS" />
+      <recent name="$PROJECT_DIR$/CI_CD" />
+      <recent name="$PROJECT_DIR$/Wechat" />
+      <recent name="$PROJECT_DIR$/OS/Linux" />
+      <recent name="$PROJECT_DIR$/Language" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8a920a1-8b6c-4646-8b05-6da45035589c" name="Default" comment="" />
+      <created>1535444343870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535444343870</updated>
+      <workItem from="1535444346583" duration="1902000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1902000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32938075" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Agile/硝烟中的Scrum和XP：我们如何实施Scrum/png/2015-03-24_102115.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Agile/硝烟中的Scrum和XP：我们如何实施Scrum/png/2015-03-24_102119.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Agile/硝烟中的Scrum和XP：我们如何实施Scrum/png/2015-03-24_102207.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Agile/硝烟中的Scrum和XP：我们如何实施Scrum/png/2015-03-24_102211.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Agile/硝烟中的Scrum和XP：我们如何实施Scrum/png/2015-03-24_102215.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Agile/硝烟中的Scrum和XP：我们如何实施Scrum/png/2015-03-24_102225.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Agile/硝烟中的Scrum和XP：我们如何实施Scrum/png/2015-03-24_102234.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
